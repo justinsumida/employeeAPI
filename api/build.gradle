@@ -10,3 +10,7 @@ dependencies {
 springBoot {
     mainClass = 'com.reliaquest.api.ApiApplication'
 }
+
+test {
+    useJUnitPlatform()
+}
