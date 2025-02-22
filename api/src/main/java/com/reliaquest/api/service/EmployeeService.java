@@ -1,8 +1,8 @@
 package com.reliaquest.api.service;
 
-import com.reliaquest.api.controller.EmployeeDeleteResponse;
-import com.reliaquest.api.controller.EmployeeListResponse;
-import com.reliaquest.api.controller.EmployeeResponse;
+import com.reliaquest.api.model.EmployeeDeleteResponse;
+import com.reliaquest.api.model.EmployeeListResponse;
+import com.reliaquest.api.model.EmployeeResponse;
 import com.reliaquest.api.model.Employee;
 import com.reliaquest.api.model.EmployeeDelete;
 import com.reliaquest.api.model.EmployeeInput;

@@ -1,4 +1,4 @@
-package com.reliaquest.api.controller;
+package com.reliaquest.api.model;
 
 public record EmployeeDeleteResponse(Boolean data, String status) {
 }

@@ -1,6 +1,5 @@
-package com.reliaquest.api.controller;
+package com.reliaquest.api.model;
 
-import com.reliaquest.api.model.Employee;
 import lombok.Data;
 
 import java.util.List;
